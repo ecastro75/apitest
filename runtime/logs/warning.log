@@ -1,0 +1,1573 @@
+2019-12-06 12:09:41 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Usuario no encontrado
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 12:09:41 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 12:10:00 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Usuario no encontrado
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 12:10:00 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 12:10:33 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Usuario no encontrado
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 12:10:33 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 12:10:49 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Usuario no encontrado
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 12:10:49 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 12:12:07 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Usuario no encontrado
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 12:12:07 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 12:12:20 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Usuario no encontrado
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 12:12:20 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 12:12:26 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Usuario no encontrado
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 12:12:26 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:12:29 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:173
+2019-12-06 14:12:29 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:12:52 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:173
+2019-12-06 14:12:52 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:14:16 [::1][-][-][warning][app\controllers\UserController::actionCreate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:116
+2019-12-06 14:14:16 [::1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"Juan\",
+____	\"usu_apellido_1\":_\"Perez\",
+____	\"usu_correo\":_\"juan_perez@correo_com\",
+____	\"usu_correo_confirmar\":_\"juan_perez@correo_com\",
+____	\"usu_clave\":_\"123ert\",
+____	\"usu_clave_confirmar\":_\"123ert\"
+	}
+}' => ''
+]
+2019-12-06 14:14:44 [::1][-][-][warning][app\controllers\UserController::actionCreate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:116
+2019-12-06 14:14:44 [::1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"Juan\",
+____	\"usu_apellido_1\":_\"Perez\",
+____	\"usu_correo\":_\"juan_perez@correo_com\",
+____	\"usu_correo_confirmar\":_\"juan_perez@correo_com\",
+____	\"usu_clave\":_\"123ert\",
+____	\"usu_clave_confirmar\":_\"123ert\"
+	}
+}' => ''
+]
+2019-12-06 14:15:29 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:175
+2019-12-06 14:15:28 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:16:09 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:175
+2019-12-06 14:16:09 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:16:36 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Error controlado
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:175
+2019-12-06 14:16:35 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:17:03 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:173
+2019-12-06 14:17:03 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:17:46 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Usuario no encontrado
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:173
+2019-12-06 14:17:45 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:23:39 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:176
+2019-12-06 14:23:38 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:31:09 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:176
+2019-12-06 14:31:09 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:31:18 [::1][-][-][warning][app\controllers\UserController::actionUpdate] SQLSTATE[23502]: Not null violation: 7 ERROR:  el valor null para la columna «usu_clave» viola la restricción not null
+DETAIL:  La fila que falla contiene (10, juan.perez@correo.com, null, 01, Juan, null, Perez, null, null, null, 0, 20191206143059, null, 20191206141346, 20191206143118, null).
+The SQL being executed was: UPDATE "usuarios" SET "usu_clave"=NULL, "usu_fecha_actualizacion"='20191206143118' WHERE "usu_id"=10
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:176
+2019-12-06 14:31:18 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:32:22 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:176
+2019-12-06 14:32:22 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:32:59 [::1][-][-][warning][app\controllers\UserController::actionUpdate] SQLSTATE[23502]: Not null violation: 7 ERROR:  el valor null para la columna «usu_clave» viola la restricción not null
+DETAIL:  La fila que falla contiene (10, juan.perez@correo.com, null, 01, Juan, null, Perez, null, null, null, 0, 20191206143059, null, 20191206141346, 20191206143259, null).
+The SQL being executed was: UPDATE "usuarios" SET "usu_clave"=NULL, "usu_fecha_actualizacion"='20191206143259' WHERE "usu_id"=10
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:176
+2019-12-06 14:32:59 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:35:19 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:176
+2019-12-06 14:35:19 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:35:25 [::1][-][-][warning][app\controllers\UserController::actionUpdate] SQLSTATE[23502]: Not null violation: 7 ERROR:  el valor null para la columna «usu_clave» viola la restricción not null
+DETAIL:  La fila que falla contiene (10, juan.perez@correo.com, null, 01, Juan, null, Perez, null, null, null, 0, 20191206143059, null, 20191206141346, 20191206143525, null).
+The SQL being executed was: UPDATE "usuarios" SET "usu_clave"=NULL, "usu_fecha_actualizacion"='20191206143525' WHERE "usu_id"=10
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:176
+2019-12-06 14:35:24 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:37:38 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:176
+2019-12-06 14:37:38 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:37:42 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:176
+2019-12-06 14:37:42 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:38:05 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:176
+2019-12-06 14:38:05 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:39:22 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:176
+2019-12-06 14:39:22 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:39:30 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:176
+2019-12-06 14:39:30 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:44:01 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 14:44:01 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:44:28 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 14:44:28 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:44:33 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 14:44:32 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:46:43 [::1][-][-][warning][app\controllers\UserController::actionCreate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:116
+2019-12-06 14:46:43 [::1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"Juan\",
+____	\"usu_apellido_1\":_\"Perez\",
+____	\"usu_correo\":_\"juan_perez@correo_com\",
+____	\"usu_correo_confirmar\":_\"juan_perez@correo_com\",
+____	\"usu_clave\":_\"123ert\",
+____	\"usu_clave_confirmar\":_\"123ert\"
+	}
+}' => ''
+]
+2019-12-06 14:47:07 [::1][-][-][warning][app\controllers\UserController::actionCreate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:116
+2019-12-06 14:47:07 [::1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"ISRAEL\",
+____	\"usu_apellido_1\":_\"CONTRERAS\",
+____	\"usu_correo\":_\"israel_contreras@correo_com\",
+____	\"usu_correo_confirmar\":_\"juan_perez@correo_com\",
+____	\"usu_clave\":_\"123ert\",
+____	\"usu_clave_confirmar\":_\"123ert\"
+	}
+}' => ''
+]
+2019-12-06 14:47:16 [::1][-][-][warning][app\controllers\UserController::actionCreate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:116
+2019-12-06 14:47:16 [::1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"ISRAEL\",
+____	\"usu_apellido_1\":_\"CONTRERAS\",
+____	\"usu_correo\":_\"israel_contreras@correo_com\",
+____	\"usu_correo_confirmar\":_\"israel_contreras@correo_com\",
+____	\"usu_clave\":_\"\",
+____	\"usu_clave_confirmar\":_\"123ert\"
+	}
+}' => ''
+]
+2019-12-06 14:47:29 [::1][-][-][warning][app\controllers\UserController::actionCreate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:116
+2019-12-06 14:47:29 [::1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"ISRAEL\",
+____	\"usu_apellido_1\":_\"CONTRERAS\",
+____	\"usu_correo\":_\"israel_contreras@correo_com\",
+____	\"usu_correo_confirmar\":_\"israel_contreras@correo_com\",
+____	\"usu_clave\":_\"ic123456\",
+____	\"usu_clave_confirmar\":_\"\"
+	}
+}' => ''
+]
+2019-12-06 14:47:34 [::1][-][-][warning][app\controllers\UserController::actionCreate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:116
+2019-12-06 14:47:34 [::1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"ISRAEL\",
+____	\"usu_apellido_1\":_\"CONTRERAS\",
+____	\"usu_correo\":_\"israel_contreras@correo_com\",
+____	\"usu_correo_confirmar\":_\"israel_contreras@correo_com\",
+____	\"usu_clave\":_\"ic123456\",
+____	\"usu_clave_confirmar\":_\"ic1234567\"
+	}
+}' => ''
+]
+2019-12-06 14:47:40 [::1][-][-][warning][app\controllers\UserController::actionCreate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:116
+2019-12-06 14:47:40 [::1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"ISRAEL\",
+____	\"usu_apellido_1\":_\"CONTRERAS\",
+____	\"usu_correo\":_\"israel_contreras@correo_com\",
+____	\"usu_correo_confirmar\":_\"israel_contreras@correo_com\",
+____	\"usu_clave\":_\"ic\",
+____	\"usu_clave_confirmar\":_\"ic1234567\"
+	}
+}' => ''
+]
+2019-12-06 14:47:48 [::1][-][-][warning][app\controllers\UserController::actionCreate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:116
+2019-12-06 14:47:48 [::1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"ISRAEL\",
+____	\"usu_apellido_1\":_\"CONTRERAS\",
+____	\"usu_correo\":_\"israel_contreras@correo_com\",
+____	\"usu_correo_confirmar\":_\"israel_contrera\",
+____	\"usu_clave\":_\"ic123456\",
+____	\"usu_clave_confirmar\":_\"ic123456\"
+	}
+}' => ''
+]
+2019-12-06 14:47:54 [::1][-][-][warning][app\controllers\UserController::actionCreate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:116
+2019-12-06 14:47:54 [::1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"ISRAEL\",
+____	\"usu_apellido_1\":_\"CONTRERAS\",
+____	\"usu_correo\":_\"israel_contreras@correo_com\",
+____	\"usu_correo_confirmar\":_\"israel_contreras@correo_com\",
+____	\"usu_clave\":_\"ic123456\",
+____	\"usu_clave_confirmar\":_\"ic123456\"
+	}
+}' => ''
+]
+2019-12-06 14:48:28 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 14:48:28 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:48:54 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 14:48:54 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 14:50:49 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:178
+2019-12-06 14:50:49 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 16:18:57 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:179
+2019-12-06 16:18:56 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 16:19:19 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:179
+2019-12-06 16:19:19 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 16:19:33 [::1][-][-][warning][app\controllers\UserController::actionUpdate] 
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:179
+2019-12-06 16:19:33 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 16:23:50 [::1][-][-][warning][app\controllers\UserController::actionUpdate] El correo/usuario no debe modificarse :: TRACE CODE: UbwAFBRo
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:157
+2019-12-06 16:23:50 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 16:33:09 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Error: el correo/usuario no debe ser modificado
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:179
+2019-12-06 16:33:09 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 16:33:44 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Error: el correo/usuario no debe ser modificado
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:179
+2019-12-06 16:33:44 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-06 17:22:31 [::1][-][-][warning][app\controllers\SecurityController::actionLogin] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\SecurityController.php:55
+2019-12-06 17:22:31 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-09 15:08:20 [::1][-][-][warning][app\controllers\SecurityController::actionLogin] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\SecurityController.php:70
+2019-12-09 15:08:20 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2019-12-09 17:00:43 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:110
+2019-12-09 17:00:43 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"ISRAEL\",
+____	\"usu_apellido_1\":_\"CONTRERAS\",
+____	\"usu_correo\":_\"israel_contreras@correo_com\",
+____	\"usu_correo_confirmar\":_\"israel_contreras@correo_com\",
+____	\"usu_clave\":_\"ic123456\",
+____	\"usu_clave_confirmar\":_\"ic123456\"
+	}
+}' => ''
+]
+2020-01-08 14:59:47 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:212
+2020-01-08 14:59:46 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-08 15:05:03 [::1][-][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:147
+2020-01-08 15:05:03 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-08 15:07:23 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:212
+2020-01-08 15:07:23 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-08 15:07:28 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:212
+2020-01-08 15:07:28 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-08 15:47:43 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:212
+2020-01-08 15:47:43 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-08 15:48:15 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:212
+2020-01-08 15:48:15 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-08 15:48:26 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:212
+2020-01-08 15:48:25 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-08 15:48:57 [::1][-][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:212
+2020-01-08 15:48:57 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:01:23 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:01:23 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:01:38 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:01:38 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:01:46 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:01:46 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:10:11 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:10:11 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:11:08 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:11:08 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:11:11 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:11:11 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:14:23 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:14:23 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:14:33 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:14:33 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:14:58 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:14:57 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:15:02 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:15:02 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:15:35 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:15:35 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:15:46 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:15:46 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:15:57 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:15:57 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:16:06 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:16:06 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:16:10 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:16:09 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:16:25 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-10 13:16:25 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:16:35 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-10 13:16:35 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:16:49 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-10 13:16:49 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:16:53 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-10 13:16:52 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:16:55 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-10 13:16:54 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:17:08 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-10 13:17:08 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:20:54 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-10 13:20:54 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:21:05 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-10 13:21:05 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:21:50 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-10 13:21:49 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:33:47 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:33:47 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:33:56 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:33:56 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:34:06 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:34:06 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:34:09 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:34:09 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:35:55 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:35:55 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:37:03 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:37:02 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:37:12 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:37:12 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:37:49 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:37:49 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:38:20 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:38:20 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:39:43 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:39:42 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:43:31 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:43:31 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:45:40 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-10 13:45:39 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:45:46 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-10 13:45:46 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:46:01 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-10 13:46:00 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:47:17 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:47:17 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:47:20 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:47:19 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:47:26 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:47:25 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:47:28 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:47:28 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 13:47:37 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 13:47:37 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 14:39:29 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 14:39:29 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 14:39:36 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 14:39:36 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-10 14:39:38 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-10 14:39:38 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 10:24:14 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-15 10:24:13 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 15:00:43 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] jandor.ac@gmail.com ... auth_key_time expirado
+    in C:\EXPERTIA\php\schoolportal-service\models\Usuario.php:135
+2020-01-15 15:00:43 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 15:09:06 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] jandor.ac@gmail.com ... auth_key_time expirado
+    in C:\EXPERTIA\php\schoolportal-service\models\Usuario.php:135
+2020-01-15 15:09:05 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 15:13:17 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] jandor.ac@gmail.com ... auth_key_time expirado
+    in C:\EXPERTIA\php\schoolportal-service\models\Usuario.php:135
+2020-01-15 15:13:17 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 15:54:09 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] jandor.ac@gmail.com ... auth_key_time expirado
+    in C:\EXPERTIA\php\schoolportal-service\models\Usuario.php:135
+2020-01-15 15:54:08 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 16:38:53 [::1][1][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-15 16:38:53 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 16:38:56 [::1][1][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-15 16:38:56 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 16:39:02 [::1][1][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-15 16:39:02 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 16:39:03 [::1][1][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:153
+2020-01-15 16:39:03 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 16:44:38 [::1][1][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:220
+2020-01-15 16:44:38 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 16:56:02 [::1][1][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-15 16:56:02 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 16:56:38 [::1][1][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-15 16:56:38 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-15 17:08:25 [::1][1][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-15 17:08:24 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-16 08:53:54 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] jandor.ac@gmail.com ... auth_key_time expirado
+    in C:\EXPERTIA\php\schoolportal-service\models\Usuario.php:163
+2020-01-16 08:53:52 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-16 15:08:52 [::1][2][-][warning][app\controllers\ClientController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\ClientController.php:150
+2020-01-16 15:08:52 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"cliente\":
+	{
+____	\"cli_nombre\":_\"COMPLEJO_EDUCATIVO_WALTER_SOUNDY\",
+____	\"cli_correo\":_\"info@cewas_com\",
+____	\"cli_telefono\":_\"22635478\",
+____	\"cli_responsable_nombre\":_\"MIGUEL_ANTONIO_MUÑOZ_ARGUETA\",
+____	\"cli_responsable_correo\":_\"miguel_munioz@cewas_com\",
+____	\"cli_responsable_telefono\":_\"78562232\"
+	}
+}' => ''
+]
+2020-01-16 15:12:53 [::1][2][-][warning][app\controllers\ClientController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\ClientController.php:209
+2020-01-16 15:12:53 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-16 15:13:21 [::1][2][-][warning][app\controllers\ClientController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\ClientController.php:150
+2020-01-16 15:13:21 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"cliente\":
+	{
+____	\"cli_nombre\":_\"COMPLEJO_EDUCATIVO_WALTER_SOUNDY\",
+____	\"cli_correo\":_\"info@cewas_com\",
+____	\"cli_telefono\":_\"22635478\",
+____	\"cli_responsable_nombre\":_\"MIGUEL_ANTONIO_MUÑOZ_ARGUETA\",
+____	\"cli_responsable_correo\":_\"miguel_munioz@cewas_com\",
+____	\"cli_responsable_telefono\":_\"78562232\"
+	}
+}' => ''
+]
+2020-01-16 15:15:17 [::1][2][-][warning][app\controllers\ClientController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\ClientController.php:150
+2020-01-16 15:15:17 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"cliente\":
+	{
+____	\"cli_nombre\":_\"UNIVERSIDAD_TECONOLOGICA_DE_EL_SALVADOR\",
+____	\"cli_correo\":_\"info@utec_edu_sv\",
+____	\"cli_telefono\":_\"27850025\",
+____	\"cli_responsable_nombre\":_\"ORLANDO_JOSE_PEREZ_SOSA\",
+____	\"cli_responsable_correo\":_\"orlando_perez@utec_edu_sv\",
+____	\"cli_responsable_telefono\":_\"63568878\"
+	}
+}' => ''
+]
+2020-01-16 15:15:34 [::1][2][-][warning][app\controllers\ClientController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\ClientController.php:150
+2020-01-16 15:15:34 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"cliente\":
+	{
+____	\"cli_nombre\":_\"UNIVERSIDAD_TECONOLOGICA_DE_EL_SALVADOR\",
+____	\"cli_nombre_abreviado\":_\"UTEC\",
+____	\"cli_correo\":_\"info@utec_edu_sv\",
+____	\"cli_telefono\":_\"27850025\",
+____	\"cli_responsable_nombre\":_\"ORLANDO_JOSE_PEREZ_SOSA\",
+____	\"cli_responsable_correo\":_\"orlando_perez@utec_edu_sv\",
+____	\"cli_responsable_telefono\":_\"63568878\"
+	}
+}' => ''
+]
+2020-01-16 15:56:40 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] jandor.ac@gmail.com ... auth_key_time expirado
+    in C:\EXPERTIA\php\schoolportal-service\models\Usuario.php:163
+2020-01-16 15:56:39 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-16 16:06:20 [::1][2][-][warning][app\controllers\UserController::actionUpdate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\UserController.php:218
+2020-01-16 16:06:19 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-16 16:06:35 [::1][2][-][warning][app\controllers\ClientController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\ClientController.php:150
+2020-01-16 16:06:35 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-16 16:06:39 [::1][2][-][warning][app\controllers\ClientController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\ClientController.php:150
+2020-01-16 16:06:38 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-16 16:06:59 [::1][2][-][warning][app\controllers\ClientController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\ClientController.php:150
+2020-01-16 16:06:58 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-01-16 16:07:03 [::1][2][-][warning][app\controllers\ClientController::actionCreate] Error en validacion...
+    in C:\EXPERTIA\php\schoolportal-service\controllers\ClientController.php:150
+2020-01-16 16:07:03 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-03 12:05:49 [::1][5][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:153
+2020-02-03 12:05:49 [::1][5][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-03 12:05:56 [::1][5][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:153
+2020-02-03 12:05:56 [::1][5][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-03 12:06:09 [::1][5][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:153
+2020-02-03 12:06:09 [::1][5][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-03 12:06:11 [::1][5][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:153
+2020-02-03 12:06:11 [::1][5][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-05 10:53:36 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] soporte@schoolportal.com ... auth_key_time expirado
+    in C:\Developer\works\php\schoolportal-service\models\Usuario.php:177
+2020-02-05 10:53:35 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-05 10:53:36 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] soporte@schoolportal.com ... auth_key_time expirado
+    in C:\Developer\works\php\schoolportal-service\models\Usuario.php:177
+2020-02-05 10:53:35 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-08 12:03:03 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] jandor.ac@gmail.com ... auth_key_time expirado
+    in C:\Developer\works\php\schoolportal-service\models\Usuario.php:177
+2020-02-08 12:03:03 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-20 10:59:57 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:149
+2020-02-20 10:59:57 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"EMILIO\",
+____	\"usu_apellido_1\":_\"CASTRO\",
+____	\"usu_codigo\":_\"EC29051989\",
+____	\"usu_codigo_confirmar\":_\"EC29051989S\",
+____	\"usu_clave\":_\"ec123456\",
+____	\"usu_clave_confirmar\":_\"ec123456w\",
+____	\"cat_rol_id\":_5
+	}
+}' => ''
+]
+2020-02-20 11:00:47 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:149
+2020-02-20 11:00:47 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"EMILIO\",
+____	\"usu_apellido_1\":_\"CASTRO\",
+____	\"usu_codigo\":_\"EC29051989\",
+____	\"usu_codigo_confirmar\":_\"EC29051989\",
+____	\"usu_clave\":_\"ec123456\",
+____	\"usu_clave_confirmar\":_\"ec123456w\",
+____	\"cat_rol_id\":_5
+	}
+}' => ''
+]
+2020-02-20 11:01:08 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:149
+2020-02-20 11:01:08 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"EMILIO\",
+____	\"usu_apellido_1\":_\"CASTRO\",
+____	\"usu_codigo\":_\"AC15051986\",
+____	\"usu_codigo_confirmar\":_\"AC15051986\",
+____	\"usu_clave\":_\"ec123456\",
+____	\"usu_clave_confirmar\":_\"ec123456w\",
+____	\"cat_rol_id\":_5
+	}
+}' => ''
+]
+2020-02-20 11:01:12 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:149
+2020-02-20 11:01:11 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"EMILIO\",
+____	\"usu_apellido_1\":_\"CASTRO\",
+____	\"usu_codigo\":_\"EC29051989\",
+____	\"usu_codigo_confirmar\":_\"EC29051989\",
+____	\"usu_clave\":_\"ec123456\",
+____	\"usu_clave_confirmar\":_\"ec123456w\",
+____	\"cat_rol_id\":_5
+	}
+}' => ''
+]
+2020-02-20 11:06:40 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:149
+2020-02-20 11:06:39 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"EMILIO\",
+____	\"usu_apellido_1\":_\"CASTRO\",
+____	\"usu_codigo\":_\"EC29051989\",
+____	\"usu_codigo_confirmar\":_\"EC29051989\",
+____	\"usu_clave\":_\"ec123456\",
+____	\"usu_clave_confirmar\":_\"ec123456\",
+____	\"cat_rol_id\":_5
+	}
+}' => ''
+]
+2020-02-20 11:07:26 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:149
+2020-02-20 11:07:26 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"RAFAEL\",
+____	\"usu_apellido_1\":_\"CASTRO\",
+____	\"usu_codigo\":_\"RC06041985\",
+____	\"usu_codigo_confirmar\":_\"RC06041985\",
+____	\"usu_clave\":_\"rc123456\",
+____	\"usu_clave_confirmar\":_\"rc123456\",
+____	\"cat_rol_id\":_5
+	}
+}' => ''
+]
+2020-02-20 11:07:38 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:149
+2020-02-20 11:07:38 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"RAFAEL\",
+____	\"usu_apellido_1\":_\"CASTRO\",
+____	\"usu_codigo\":_\"RC06041985\",
+____	\"usu_codigo_confirmar\":_\"RC06041985\",
+____	\"usu_clave\":_\"rc123456\",
+____	\"usu_clave_confirmar\":_\"rc123456\",
+____	\"cat_rol_id\":_5,
+____	\"per_id\":_888
+	}
+}' => ''
+]
+2020-02-20 11:08:03 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:149
+2020-02-20 11:08:03 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"RAFAEL\",
+____	\"usu_apellido_1\":_\"CASTRO\",
+____	\"usu_codigo\":_\"RC06041985\",
+____	\"usu_codigo_confirmar\":_\"RC06041985\",
+____	\"usu_clave\":_\"rc123456\",
+____	\"usu_clave_confirmar\":_\"rc123456\",
+____	\"cat_rol_id\":_5,
+____	\"per_id\":_888
+	}
+}' => ''
+]
+2020-02-20 11:10:12 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:149
+2020-02-20 11:10:12 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"RAFAEL\",
+____	\"usu_apellido_1\":_\"CASTRO\",
+____	\"usu_codigo\":_\"RC06041985\",
+____	\"usu_codigo_confirmar\":_\"RC06041985\",
+____	\"usu_clave\":_\"rc123456\",
+____	\"usu_clave_confirmar\":_\"rc123456\",
+____	\"cat_rol_id\":_1000,
+____	\"per_id\":_888
+	}
+}' => ''
+]
+2020-02-20 11:10:21 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:149
+2020-02-20 11:10:20 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"RAFAEL\",
+____	\"usu_apellido_1\":_\"CASTRO\",
+____	\"usu_codigo\":_\"RC06041985\",
+____	\"usu_codigo_confirmar\":_\"RC06041985\",
+____	\"usu_clave\":_\"rc123456\",
+____	\"usu_clave_confirmar\":_\"rc123456\",
+____	\"cat_rol_id\":_1000,
+____	\"per_id\":_888
+	}
+}' => ''
+]
+2020-02-20 11:12:13 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:149
+2020-02-20 11:12:13 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"usuario\":
+	{
+____	\"usu_nombre_1\":_\"RAFAEL\",
+____	\"usu_apellido_1\":_\"CASTRO\",
+____	\"usu_codigo\":_\"RC06041985\",
+____	\"usu_codigo_confirmar\":_\"RC06041985\",
+____	\"usu_clave\":_\"rc123456\",
+____	\"usu_clave_confirmar\":_\"rc123456\",
+____	\"cat_rol_id\":_5,
+____	\"per_id\":_1
+	}
+}' => ''
+]
+2020-02-20 12:08:20 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:145
+2020-02-20 12:08:19 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-20 12:08:25 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:145
+2020-02-20 12:08:25 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-20 12:08:31 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:145
+2020-02-20 12:08:31 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-20 12:08:39 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:145
+2020-02-20 12:08:39 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-24 09:26:28 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:145
+2020-02-24 09:26:28 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-24 10:27:21 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] AC15051986 ... auth_key_time expirado
+    in C:\Developer\works\php\schoolportal-service\models\Usuario.php:160
+2020-02-24 10:27:21 [::1][-][-][info][application] $_GET = [
+    'id' => '0000000002'
+]
+
+$_POST = []
+2020-02-24 10:59:03 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:146
+2020-02-24 10:59:03 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-24 10:59:12 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:146
+2020-02-24 10:59:12 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-24 11:11:21 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:146
+2020-02-24 11:11:21 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-24 11:11:25 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:146
+2020-02-24 11:11:25 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-24 11:47:49 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] AC15051986 ... auth_key_time expirado
+    in C:\Developer\works\php\schoolportal-service\models\Usuario.php:161
+2020-02-24 11:47:49 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-24 12:34:42 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] AC15051986 ... auth_key_time expirado
+    in C:\Developer\works\php\schoolportal-service\models\Usuario.php:161
+2020-02-24 12:34:42 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-25 14:57:58 [::1][2][-][warning][app\controllers\UserController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\UserController.php:146
+2020-02-25 14:57:58 [::1][2][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-25 20:20:51 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] AC15051986 ... auth_key_time expirado
+    in C:\Developer\works\php\schoolportal-service\models\Usuario.php:164
+2020-02-25 20:20:49 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-25 20:20:51 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] AC15051986 ... auth_key_time expirado
+    in C:\Developer\works\php\schoolportal-service\models\Usuario.php:164
+2020-02-25 20:20:49 [::1][-][-][info][application] $_GET = [
+    'cat_codigo_padre' => '0000000002'
+]
+
+$_POST = []
+2020-02-25 20:20:51 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] AC15051986 ... auth_key_time expirado
+    in C:\Developer\works\php\schoolportal-service\models\Usuario.php:164
+2020-02-25 20:20:49 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-26 08:16:32 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] AC15051986 ... auth_key_time expirado
+    in C:\Developer\works\php\schoolportal-service\models\Usuario.php:164
+2020-02-26 08:16:31 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-02-26 11:23:55 [::1][2][-][warning][app\controllers\PersonController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\PersonController.php:147
+2020-02-26 11:23:54 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"persona\":
+	{
+		\"per_correo\":_\"miguel_munoz@cewas_edu_sv\",
+		\"per_correo_confirmar\":_\"miguel_munoz@cewas_edu_svs\",
+		\"per_codigo\":_\"MM20011980\",
+		\"per_codigo_confirmar\":_\"MM20011980s\",
+____	\"per_nombre_1\":_\"MIGUEL\",
+____	\"per_nombre_2\":_\"ANTONIO\",
+____	\"per_apellido_1\":_\"MUÑOZ\",
+____	\"per_apellido_2\":_\"ARGUETA\",
+____	\"per_documento_1\":_\"\",
+____	\"per_documento_2\":_\"\",
+____	\"per_documento_3\":_\"\",
+____	\"per_direccion\":_\"\",
+____	\"cat_tper_id\":_13,
+____	\"cli_id\":_2
+	}
+}' => ''
+]
+2020-02-26 11:31:40 [::1][2][-][warning][app\controllers\ClientController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\ClientController.php:172
+2020-02-26 11:31:40 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"cliente\":
+	{
+		\"cli_nombre\":_\"\",
+		\"cli_nombre_abreviado\":_\"\",
+		\"cli_correo\":_\"\",
+		\"cli_telefono\":_\"\",
+____	\"cli_responsable_nombre\":_\"\",
+____	\"cli_responsable_correo\":_\"\",
+____	\"cli_responsable_telefono\":_\"\",
+____	\"cat_tint_id\":_1000
+	}
+}' => ''
+]
+2020-02-26 11:32:08 [::1][2][-][warning][app\controllers\ClientController::actionCreate] Error en validacion...
+    in C:\Developer\works\php\schoolportal-service\controllers\ClientController.php:172
+2020-02-26 11:32:07 [::1][2][-][info][application] $_GET = []
+
+$_POST = [
+    '{
+	\"cliente\":
+	{
+		\"cli_id\":_1000,
+		\"cli_nombre\":_\"\",
+		\"cli_nombre_abreviado\":_\"\",
+		\"cli_correo\":_\"\",
+		\"cli_telefono\":_\"\",
+____	\"cli_responsable_nombre\":_\"\",
+____	\"cli_responsable_correo\":_\"\",
+____	\"cli_responsable_telefono\":_\"\",
+____	\"cat_tint_id\":_1000
+	},
+	\"scenario\":_\"update\"
+}' => ''
+]
+2020-02-27 09:18:11 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] AC15051986 ... auth_key_time expirado
+    in C:\Developer\works\php\schoolportal-service\models\Usuario.php:164
+2020-02-27 09:18:09 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2020-03-30 21:08:44 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] AC15051986 ... auth_key_time expirado
+    in C:\Developer\works\php\schoolportal-service\models\Usuario.php:164
+2020-03-30 21:08:44 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-07 17:45:42 [::1][-][-][warning][app\controllers\SecurityController::actionLogin] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\SecurityController.php:90
+2023-05-07 17:45:41 [::1][-][-][info][application] $_GET = [
+    'usuario' => '123456'
+    'clave' => '123456'
+]
+
+$_POST = []
+2023-05-07 22:33:48 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-07 22:33:48 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-07 22:33:56 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-07 22:33:56 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-07 22:33:59 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-07 22:33:59 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-07 22:34:18 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-07 22:34:18 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-07 22:34:28 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-07 22:34:28 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-07 22:35:53 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-07 22:35:53 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-07 22:37:27 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-07 22:37:27 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-07 22:38:59 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-07 22:38:59 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-07 22:39:14 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-07 22:39:14 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-07 22:39:21 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-07 22:39:21 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-07 22:39:25 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-07 22:39:25 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 07:38:59 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 07:38:59 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 07:39:50 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 07:39:50 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 07:39:51 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 07:39:51 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 07:40:14 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 07:40:14 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 07:55:15 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 07:55:15 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 07:55:17 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 07:55:17 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 07:58:56 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 07:58:56 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 07:59:12 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 07:59:11 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 07:59:13 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 07:59:13 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 07:59:33 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 07:59:33 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 07:59:51 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 07:59:51 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 07:59:53 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 07:59:53 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 08:05:53 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 08:05:53 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 08:06:41 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 08:06:41 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 08:14:21 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 08:14:21 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 08:14:23 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 08:14:23 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 08:16:13 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 08:16:13 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 08:16:36 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 08:16:36 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 08:16:59 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 08:16:59 [::1][-][-][info][application] $_GET = [
+    'user' => '345'
+]
+
+$_POST = []
+2023-05-08 08:18:49 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 08:18:49 [::1][-][-][info][application] $_GET = [
+    'user' => '345'
+]
+
+$_POST = []
+2023-05-08 08:18:54 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 08:18:54 [::1][-][-][info][application] $_GET = [
+    'user' => '345'
+]
+
+$_POST = []
+2023-05-08 08:22:40 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 08:22:40 [::1][-][-][info][application] $_GET = [
+    'user' => '345'
+]
+
+$_POST = []
+2023-05-08 08:32:42 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 08:32:42 [::1][-][-][info][application] $_GET = [
+    'user' => '345'
+]
+
+$_POST = []
+2023-05-08 08:56:38 [::1][1][-][warning][app\controllers\PersonController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\PersonController.php:149
+2023-05-08 08:56:38 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 12:12:35 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-08 12:12:35 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 12:54:54 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:146
+2023-05-08 12:54:54 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 12:57:40 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:146
+2023-05-08 12:57:40 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 13:01:58 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:146
+2023-05-08 13:01:58 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-08 13:02:24 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:146
+2023-05-08 13:02:24 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-09 21:22:20 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-09 21:22:13 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-10 08:56:50 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-10 08:56:49 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-10 08:57:05 [::1][-][-][warning][app\models\Usuario::findIdentityByAccessToken] 123456 ... auth_key_time expirado
+    in C:\wamp\www\schoolportal-service\models\Usuario.php:164
+2023-05-10 08:57:05 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-10 15:46:54 [::1][1][-][warning][app\controllers\PersonController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\PersonController.php:149
+2023-05-10 15:46:53 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-10 16:21:28 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:146
+2023-05-10 16:21:28 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-10 16:22:23 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:146
+2023-05-10 16:22:23 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-10 16:22:34 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:146
+2023-05-10 16:22:34 [::1][1][-][info][application] $_GET = []
+
+$_POST = []
+2023-05-10 16:27:58 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:147
+2023-05-10 16:27:58 [::1][1][-][info][application] $_GET = [
+    'test' => [
+        'testid' => '1'
+        'testname' => 'create desde apiwww'
+        'serialno' => 'f456'
+        'partnumber' => '453'
+        'datetime' => '2023-05-09'
+    ]
+]
+
+$_POST = []
+2023-05-10 16:28:43 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:147
+2023-05-10 16:28:43 [::1][1][-][info][application] $_GET = [
+    'test' => [
+        'testid' => '1'
+        'testname' => 'create desde apiwww'
+        'serialno' => 'f456'
+        'partnumber' => '453'
+        'datetime' => '2023-05-09'
+    ]
+]
+
+$_POST = []
+2023-05-10 16:29:37 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:147
+2023-05-10 16:29:37 [::1][1][-][info][application] $_GET = [
+    'testid' => '1'
+    'testname' => 'create desde apiwww'
+    'serialno' => 'f456'
+    'partnumber' => '453'
+    'datetime' => '2023-05-09'
+]
+
+$_POST = []
+2023-05-10 16:49:40 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:147
+2023-05-10 16:49:40 [::1][1][-][info][application] $_GET = [
+    'testid' => '1'
+    'testname' => 'create from API'
+    'serialno' => 'f456'
+    'partnumber' => '453'
+    'datetime' => '2023-05-09'
+]
+
+$_POST = []
+2023-05-10 16:52:30 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:147
+2023-05-10 16:52:30 [::1][1][-][info][application] $_GET = [
+    'testid' => '1'
+    'testname' => 'create from API'
+    'serialno' => 'f456'
+    'partnumber' => '453'
+    'datetime' => '2023-05-09'
+]
+
+$_POST = []
+2023-05-10 16:53:40 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:147
+2023-05-10 16:53:40 [::1][1][-][info][application] $_GET = [
+    'testid' => '1'
+    'testname' => 'create from API'
+    'serialno' => 'f456'
+    'partnumber' => '453'
+    'datetime' => '2023-05-09'
+]
+
+$_POST = []
+2023-05-10 16:54:58 [::1][1][-][warning][app\controllers\TestController::actionCreate] Error en validacion...
+    in C:\wamp\www\schoolportal-service\controllers\TestController.php:147
+2023-05-10 16:54:58 [::1][1][-][info][application] $_GET = [
+    'testid' => '1'
+    'testname' => 'create from API'
+    'serialno' => 'f456'
+    'partnumber' => '453'
+    'datetime' => '2023-05-09'
+]
+
+$_POST = []
